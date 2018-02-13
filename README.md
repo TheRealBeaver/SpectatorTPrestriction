@@ -1,0 +1,2 @@
+# SpectatorTPrestriction
+Spigot Plugin.
