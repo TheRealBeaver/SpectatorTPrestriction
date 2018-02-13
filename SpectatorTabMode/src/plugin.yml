@@ -1,0 +1,10 @@
+main: me.beaver.SpectatorTabMode
+name: SpectatorTpRestritions
+description: Restrict acces to teleporting via the spectate menu.
+author: Lorenzo
+version: 1.1
+
+permissions:
+    spectator.bypass:
+        default: OP
+        description: Makes you able to bypass the spectator TP restriction.
